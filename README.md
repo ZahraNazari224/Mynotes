@@ -12,4 +12,4 @@
   - 11:00-[Comp1238 Lab](https://learn.georgebrown.ca/d2l/home/334969)
   - 02:00-[Mathmatics](https://learn.georgebrown.ca/d2l/home/319863)
     
-   [https://zahranazari224.github.io/Mynotes/](https://zahranazari224.github.io/Mynotes/)
+
